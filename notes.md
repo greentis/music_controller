@@ -16,3 +16,5 @@ npm i @babel/plugin-proposal-class-properties (concurrency)
 npm i react-router-dom
 
 npm i @material-ui/icons --force
+
+npm install @types/react @types/react-dom
